@@ -1,4 +1,4 @@
-##🐾 WildLens: Wildlife Image Prediction and Conservation App
+**🐾 WildLens: Wildlife Image Prediction and Conservation App**
 
 **WildLens** is a web-based application designed for wildlife photographers, researchers, and conservationists to identify animal species from images. It uses a machine learning model trained on over 100 species and provides quick, informative feedback about the animal and its conservation status.
 
